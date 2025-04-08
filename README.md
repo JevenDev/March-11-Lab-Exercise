@@ -1,4 +1,4 @@
-# March 11 Labe Exercise / GDES-3091-501
+# March 11 Lab Exercise / GDES-3091-501
 ---
 _BY JEVEN RANDHAWA_
 
